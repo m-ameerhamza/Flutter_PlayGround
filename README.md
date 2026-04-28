@@ -76,7 +76,7 @@ Getting Started
 
 <pre>
 git clone https://github.com/your-username/flutter-playground.git
-cd flutter-playground
+cd DESIRED_FOLDER_IN_MY_REPO
 flutter pub get
 flutter run
 </pre>
