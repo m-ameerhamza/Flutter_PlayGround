@@ -23,13 +23,13 @@
 - Databases (Use PostgreSQL for Fast & Efficient Outcome)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/wallet-app.git`
-2. Install dependencies: `flutter pub get`
-3. Add your Firebase configuration files (`google-services.json`).
-4. Set up your desired APIs.
-5. It has a mock database add real database for realtime use!
-6. Run the app: `flutter run`
-7. Good Luck!
+1. Clone the repository Or Download the lib folder from here: `git clone https://github.com/your-username/wallet-app.git`
+2. Create a default flutter project
+3. Delete your existing 'lib' folder and paste this 'lib' folder 👆.
+4. Replace your 'pubspec.yaml' with above 'pubspec.yaml'.
+5. Run flutter pub get
+6. Run flutter run
+7. READY!
 
 <hr />
 
