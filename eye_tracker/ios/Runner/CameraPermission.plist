@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Add these keys to your existing ios/Runner/Info.plist file.
+  Merge them inside the top-level <dict> tag.
+-->
+<plist version="1.0">
+<dict>
+    <!-- Required: Camera usage description shown in the permission prompt -->
+    <key>NSCameraUsageDescription</key>
+    <string>eye_tracker needs camera access to detect and analyze your eye state in real time.</string>
+
+    <!-- Required for ML Kit on iOS -->
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+        <string>armv7</string>
+    </array>
+
+    <!-- Minimum iOS version for camera features -->
+    <key>MinimumOSVersion</key>
+    <string>12.0</string>
+</dict>
+</plist>
