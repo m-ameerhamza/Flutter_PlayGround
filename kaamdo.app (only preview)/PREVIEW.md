@@ -1,5 +1,5 @@
 <h1>KaamDo App - Find Jobs</h1>
 <b>KaamDo App – Find Jobs</b> is a smart job search and recruitment platform designed to connect job seekers with employers through a fast, simple, and accessible mobile experience. The app allows users to browse job listings, apply for positions, create professional profiles, and receive real-time job recommendations based on their skills and interests. Employers can post vacancies, manage applications, and find suitable candidates efficiently. KaamDo App features advanced search filters, application tracking, instant notifications, and secure user management to streamline the hiring process for both companies and applicants. Built for Android and iOS platforms, the application aims to simplify employment opportunities and make job searching more convenient and effective.
-<h4>Developed by https://github.com/m-ameerhamza </h4>
+<h4>Developed by https://github.com/hey-ameerhamza </h4>
 <h4>Preview & Screenshots</h4>
 <img width="1920" height="1080" alt="kaamdo" src="https://github.com/user-attachments/assets/730aa1cc-f934-4694-989f-96826f57638c" />
